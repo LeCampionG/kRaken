@@ -1,0 +1,47 @@
+"i","j","color","weight"
+"bailey","ben","a",1
+"altman","burton","a",1
+"adele","chief","a",1
+"catherine","chief","a",1
+"addison","derek","a",1
+"chief","ellis grey","a",1
+"derek","grey","a",1
+"finn","grey","a",1
+"denny","izzie","a",1
+"hank","izzie","a",1
+"addison","karev","a",1
+"ava","karev","a",1
+"izzie","karev","a",1
+"avery","kepner","a",1
+"karev","kepner","b",1
+"avery","lexi","b",1
+"karev","lexi","b",1
+"bailey","lloyd","b",1
+"karev","lucy","b",1
+"megan","mostow","b",1
+"karev","mrs. seabury","b",2
+"karev","olivia","b",2
+"grey","o'malley","b",2
+"izzie","o'malley","b",2
+"olivia","o'malley","b",2
+"altman","owen","b",2
+"altman","perkins","b",2
+"megan","pierce","b",2
+"addison","sloan","b",2
+"altman","sloan","b",2
+"amelia","sloan","b",2
+"lexi","sloan","b",3
+"nancy","sloan","b",3
+"reed","sloan","b",3
+"grey","steve","c",3
+"ellis grey","thatch grey","c",3
+"susan grey","thatch grey","c",3
+"arizona","torres","c",3
+"hahn","torres","c",3
+"karev","torres","c",3
+"o'malley","torres","c",3
+"sloan","torres","c",3
+"bailey","tucker","c",3
+"colin","yang","c",3
+"owen","yang","c",3
+"preston","yang","c",3
