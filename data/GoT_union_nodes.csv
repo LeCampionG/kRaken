@@ -1,0 +1,209 @@
+,"name","sex","culture","house","popularity","house2","degree","indegree","outdegree","betweenness","closeness","eccentricity"
+"Alys Arryn","Alys Arryn","F","NA","House Arryn","0.0802675585284281","NA",3,3,3,374,"0.000170561146170902",18
+"Elys Waynwood","Elys Waynwood","F","NA","House Waynwood","0.0702341137123745","NA",2,2,2,0,"0.000165289256198347",19
+"Jasper Arryn","Jasper Arryn","M","NA","House Arryn","0.0434782608695652","NA",2,2,2,744,"0.00017611835153223",17
+"Jeyne Royce","Jeyne Royce","F","NA","House Royce",0,"NA",2,2,2,0,"0.000175994368180218",17
+"Jon Arryn","Jon Arryn","M","Valemen","House Arryn","0.836120401337792","NA",8,8,8,1844,"0.000181983621474067",16
+"Lysa Arryn","Lysa Arryn","F","NA","House Tully",0,"House Tully",7,7,7,2894,"0.000188005264147396",15
+"Robert Arryn","Robert Arryn","M","Valemen","House Arryn","0.321070234113712","NA",2,2,2,0,"0.000181818181818182",16
+"Rowena Arryn","Rowena Arryn","F","NA","House Arryn",0,"NA",2,2,2,0,"0.000175994368180218",17
+"Cassana Baratheon","Cassana Baratheon","F","NA","House Baratheon",0,"House Baratheon",5,5,5,"466.333333333334","0.00019047619047619",14
+"Cersei Lannister","Cersei Lannister","F","Westerlands","House Lannister",1,"House Lannister",7,7,7,"6081.32216541629","0.000198491464867011",12
+"Jaime Lannister","Jaime Lannister","M","Westerlands","House Lannister",1,"House Lannister",5,5,5,"3419.51648351649","0.000197589409207666",12
+"Joffrey Baratheon","Joffrey Baratheon","M","NA","House Baratheon",1,"House Baratheon",5,5,5,"3132.76878483836","0.000194250194250194",13
+"Margaery Tyrell","Margaery Tyrell","F","Reach","House Tyrell",1,"House Tyrell",8,8,8,"8064.47619047621","0.000190730497806599",14
+"Myrcella Baratheon","Myrcella Baratheon","F","NA","House Baratheon","0.561872909698996","House Baratheon",3,3,3,"14.1021181716834","0.000192344681669552",13
+"Ormund Baratheon","Ormund Baratheon","M","NA","House Baratheon",0,"House Baratheon",3,3,3,0,"0.000186428038777032",15
+"Renly Baratheon","Renly Baratheon","M","Stormlands","House Baratheon",1,"House Baratheon",4,4,4,2000,"0.000187055742611298",15
+"Rhaelle Targaryen","Rhaelle Targaryen","F","NA","House Targaryen","0.137123745819397","House Targaryen",5,5,5,"3338.24662666121","0.000188893086513034",14
+"Robert Baratheon","Robert Baratheon","M","NA","House Baratheon",0,"House Baratheon",7,7,7,"2705.40287890569","0.00019485580670304",13
+"Selyse Florent","Selyse Florent","F","NA","House Florent","0.397993311036789","NA",3,3,3,0,"0.000179179358537896",16
+"Shireen Baratheon","Shireen Baratheon","F","NA","House Baratheon","0.23076923076923","House Baratheon",2,2,2,0,"0.000179179358537896",16
+"Stannis Baratheon","Stannis Baratheon","M","NA","House Baratheon",1,"House Baratheon",5,5,5,744,"0.000185356811862836",15
+"Steffon Baratheon","Steffon Baratheon","M","NA","House Baratheon","0.371237458193979","House Baratheon",7,7,7,"4090.1825240971","0.000191828122002686",14
+"Tommen Baratheon","Tommen Baratheon","M","NA","House Baratheon",1,"House Baratheon",5,5,5,"3132.76878483836","0.000194250194250194",13
+"Amarei Crakehall","Amarei Crakehall","F","NA","House Crakehall","0.153846153846153","NA",3,3,3,0,"0.000182149362477231",15
+"Amerei Frey","Amerei Frey","F","NA","House Frey","0.237458193979933","House Frey",6,6,6,"884.431923631924","0.00018385732671447",14
+"Benfrey Frey","Benfrey Frey","M","NA","House Frey","0.0735785953177257","House Frey",4,4,4,374,"0.000181785129976368",15
+"Bethany Rosby","Bethany Rosby","F","NA","House Rosby","0.0668896321070234","NA",7,7,7,"402.333333333333","0.00018450184501845",15
+"Cleos Frey","Cleos Frey","M","NA","House Frey","0.247491638795986","House Frey",6,6,6,1111,"0.000186567164179105",14
+"Dorna Swyft","Dorna Swyft","F","NA","House Swyft",0,"NA",4,4,4,"14.5","0.000184638109305761",14
+"Edmure Tully","Edmure Tully","M","Rivermen","House Tully","0.655518394648829","House Tully",4,4,4,"2073.15555555555","0.000189825360668185",15
+"Emmon Frey","Emmon Frey","M","NA","House Frey","0.23076923076923","House Frey",8,8,8,"2309.97737817738","0.000187934598759632",14
+"Genna Lannister","Genna Lannister","F","NA","House Lannister","0.217391304347826","House Lannister",8,8,8,"4295.57737817738","0.000191938579654511",13
+"Jeyne Darry","Jeyne Darry","F","Westeros","House Darry","0.0769230769230769","NA",4,4,4,1,"0.00018034265103697",15
+"Jyanna Frey","Jyanna Frey","F","NA","House Frey","0.0501672240802675","House Frey",2,2,2,0,"0.000175808720112518",16
+"Kevan Lannister","Kevan Lannister","M","NA","House Lannister","0.869565217391304","House Lannister",6,6,6,"1676.93192363192","0.000190512478567346",13
+"Lancel Lannister","Lancel Lannister","M","NA","House Lannister","0.478260869565217","House Lannister",4,4,4,"782.431923631924","0.000185666542888971",14
+"Lyonel Frey","Lyonel Frey","F","NA","House Frey","0.0635451505016722","House Frey",4,4,4,374,"0.000186428038777032",14
+"Marissa Frey","Marissa Frey","F","NA","House Frey","0.160535117056856","House Frey",2,2,2,0,"0.000178475816526861",16
+"Mariya Darry","Mariya Darry","F","NA","House Darry","0.190635451505016","NA",6,6,6,"408.206060606061","0.000183519911910442",15
+"Melesa Crakehall","Melesa Crakehall","F","NA","House Crakehall","0.0501672240802675","NA",2,2,2,0,"0.000180147721131328",15
+"Merrett Frey","Merrett Frey","M","Riverlands","House Frey","0.434782608695652","House Frey",8,8,8,"1065.59393939394","0.000184604024367731",15
+"Olyvar Frey","Olyvar Frey","M","NA","House Frey","0.0836120401337792","House Frey",2,2,2,0,"0.000181719062329638",15
+"Pate of the Blue Fork","Pate of the Blue Fork","M","NA","House Frey","0.170568561872909","House Frey",2,2,2,0,"0.000177746178457163",15
+"Perra Royce","Perra Royce","F","NA","House Royce",0,"NA",3,3,3,0,"0.00018470631695604",14
+"Perwyn Frey","Perwyn Frey","M","NA","House Frey","0.0836120401337792","House Frey",2,2,2,0,"0.000181719062329638",15
+"Roose Bolton","Roose Bolton","M","Northmen","House Bolton","0.979933110367893","NA",3,3,3,"1245.83514263514","0.000190585096245474",14
+"Roslin Frey","Roslin Frey","M","Rivermen","House Frey","0.217391304347826","House Frey",4,4,4,"1953.55555555555","0.000187300992695261",15
+"Tion Frey","Tion Frey","M","NA","House Frey","0.120401337792642","House Frey",2,2,2,0,"0.000186358553857622",14
+"Tywin Frey","Tywin Frey","M","NA","House Frey","0.0802675585284281","House Frey",2,2,2,0,"0.000180310133429499",15
+"Walda Frey daughter of Merrett","Walda Frey daughter of Merrett","F","NA","House Frey",0,"House Frey",4,4,4,"1016.16847596848","0.000186393289841566",15
+"Walder Frey","Walder Frey","M","Rivermen","House Frey","0.896321070234113","House Frey",13,13,13,"3171.77737817738","0.00018807598269701",14
+"Walder Frey son of Emmon","Walder Frey son of Emmon","F","NA","House Frey",0,"House Frey",2,2,2,0,"0.000186358553857622",14
+"Walder Frey son of Merrett","Walder Frey son of Merrett","M","NA","House Frey",0,"House Frey",2,2,2,0,"0.000178475816526861",16
+"Willamen Frey","Willamen Frey","M","NA","House Frey","0.0635451505016722","House Frey",2,2,2,0,"0.000181719062329638",15
+"Willem Frey","Willem Frey","M","NA","House Frey","0.0802675585284281","House Frey",2,2,2,0,"0.000180310133429499",15
+"Aeron Greyjoy","Aeron Greyjoy","M","Ironmen","House Greyjoy","0.45819397993311","House Greyjoy",2,2,2,0,"2.54110233019084e-05",4
+"Alannys Harlaw","Alannys Harlaw","F","Ironborn","House Harlaw","0.237458193979933","NA",6,6,6,9,"2.54110233019084e-05",3
+"Asha (Yara) Greyjoy","Asha (Yara) Greyjoy","F","Ironborn","House Greyjoy","0.709030100334448","House Greyjoy",4,4,4,34,"2.54097319273282e-05",3
+"Balon Greyjoy","Balon Greyjoy","M","NA","House Greyjoy","0.739130434782608","House Greyjoy",8,8,8,153,"2.54187743067029e-05",2
+"Donel Greyjoy","Donel Greyjoy","M","Ironborn","House Greyjoy","0.060200668896321","House Greyjoy",2,2,2,0,"2.54110233019084e-05",4
+"Erik Ironmaker","Erik Ironmaker","M","Ironborn","House Ironmaker","0.0501672240802675","NA",2,2,2,0,"2.53987605404856e-05",4
+"Euron Greyjoy","Euron Greyjoy","M","Ironborn","House Greyjoy","0.739130434782608","House Greyjoy",2,2,2,0,"2.54110233019084e-05",4
+"Harlon Greyjoy","Harlon Greyjoy","M","Ironborn","House Greyjoy","0.0635451505016722","House Greyjoy",2,2,2,0,"2.54110233019084e-05",4
+"Lady of House Piper","Lady of House Piper","F","NA","House Piper",0,"NA",3,3,3,0,"2.54110233019084e-05",4
+"Lady of House Stonetree","Lady of House Stonetree","F","NA","House Stonetree",0,"NA",5,5,5,3,"2.54123148077558e-05",4
+"Lady of House Sunderly","Lady of House Sunderly","F","NA","House Sunderly",0,"NA",7,7,7,34,"2.54174821442188e-05",3
+"Maron Greyjoy","Maron Greyjoy","M","Ironborn","House Greyjoy","0.140468227424749","House Greyjoy",2,2,2,0,"2.54084406839952e-05",3
+"Quellon Greyjoy","Quellon Greyjoy","M","Ironborn","House Greyjoy","0.0903010033444816","House Greyjoy",15,15,15,197,"2.54213590258535e-05",3
+"Quenton Greyjoy","Quenton Greyjoy","M","Ironborn","House Greyjoy","0.060200668896321","House Greyjoy",2,2,2,0,"2.54110233019084e-05",4
+"Robin Greyjoy","Robin Greyjoy","M","Ironborn","House Greyjoy","0.0635451505016722","House Greyjoy",2,2,2,0,"2.54110233019084e-05",4
+"Rodrik Greyjoy","Rodrik Greyjoy","M","Ironborn","House Greyjoy","0.153846153846153","House Greyjoy",2,2,2,0,"2.54084406839952e-05",3
+"Theon Greyjoy","Theon Greyjoy","M","Ironmen","House Greyjoy",1,"House Greyjoy",2,2,2,0,"2.54084406839952e-05",3
+"Urrigon Greyjoy","Urrigon Greyjoy","M","Ironborn","House Greyjoy","0.0735785953177257","House Greyjoy",2,2,2,0,"2.54110233019084e-05",4
+"Victarion Greyjoy","Victarion Greyjoy","M","Ironborn","House Greyjoy","0.705685618729097","House Greyjoy",2,2,2,0,"2.54110233019084e-05",4
+"Alys Stackspear","Alys Stackspear","F","NA","House Stackspear",0,"NA",3,3,3,0,"0.000188253012048193",13
+"Alysanne Farman","Alysanne Farman","F","NA","House Farman",0,"NA",2,2,2,0,"0.000181983621474067",14
+"Antario Jast","Antario Jast","M","NA","House Jast","0.0802675585284281","NA",2,2,2,0,"0.000170794192997438",16
+"Cerenna Lannister","Cerenna Lannister","F","NA","House Lannister","0.0702341137123745","House Lannister",2,2,2,0,"0.000181950509461426",14
+"Cerissa Brax","Cerissa Brax","F","NA","House Brax",0,"NA",4,4,4,370,"0.000182149362477231",14
+"Damion Lannister","Damion Lannister","M","NA","House Lannister","0.0836120401337792","House Lannister",6,6,6,1474,"0.000182348650619985",14
+"Damon Lannister","Damon Lannister","M","Westerman","House Lannister",0,"House Lannister",4,4,4,370,"0.000182149362477231",14
+"Damon Lannister son of Jason","Damon Lannister son of Jason","M","NA","House Lannister","0.060200668896321","House Lannister",5,5,5,2184,"0.000188465887674331",13
+"Darlessa Marbrand","Darlessa Marbrand","F","NA","House Marbrand","0.0836120401337792","NA",3,3,3,0,"0.00018348623853211",14
+"Daven Lannister","Daven Lannister","M","Westerman","House Lannister","0.207357859531772","House Lannister",2,2,2,0,"0.000181950509461426",14
+"Ella Lannister","Ella Lannister","F","NA","House Lannister",0,"House Lannister",3,3,3,0,"0.000182215743440233",14
+"Ermesande Hayford","Ermesande Hayford","F","NA","House Hayford","0.113712374581939","NA",2,2,2,0,"0.000177430801987225",15
+"Gerion Lannister","Gerion Lannister","M","NA","House Lannister","0.140468227424749","House Lannister",2,2,2,0,"0.000189717321191425",13
+"Gerold Lannister","Gerold Lannister","M","Westerman","House Lannister","0.0869565217391304","House Lannister",7,7,7,1838,"0.000188394875659382",13
+"Jason Lannister","Jason Lannister","M","NA","House Lannister","0.0468227424749163","House Lannister",9,9,9,6137,"0.00019485580670304",12
+"Jeyne Marbrand","Jeyne Marbrand","F","NA","House Marbrand",0,"NA",7,7,7,"3927.67131757132","0.000196656833824975",12
+"Joanna Lannister","Joanna Lannister","F","Westerman","House Lannister","0.23076923076923","House Lannister",7,7,7,"9492.14244868516","0.000200561572402728",11
+"Lanna Lannister","Lanna Lannister","F","NA","House Lannister","0.0735785953177257","House Lannister",4,4,4,374,"0.000176429075511644",15
+"Lucion Lannister","Lucion Lannister","F","NA","House Lannister","0.0668896321070234","House Lannister",2,2,2,0,"0.00017636684303351",15
+"Marla Prester","Marla Prester","F","NA","House Prester",0,"NA",4,4,4,835,"0.000194287934719254",12
+"Myranda Lefford","Myranda Lefford","F","NA","House Lefford",0,"NA",5,5,5,3,"0.00018201674554059",14
+"Myrielle Lannister","Myrielle Lannister","F","NA","House Lannister","0.0702341137123745","House Lannister",2,2,2,0,"0.000181950509461426",14
+"Rohanne Webber","Rohanne Webber","F","NA","House Webber","0.170568561872909","NA",3,3,3,0,"0.000188217579521927",13
+"Sansa Stark","Sansa Stark","F","Northmen","House Stark",1,"House Stark",6,6,6,"12394.4533733388","0.000201328769881216",12
+"Shiera Crakehall","Shiera Crakehall","F","NA","House Crakehall","0.0668896321070234","NA",4,4,4,2,"0.000176429075511644",15
+"Stafford Lannister","Stafford Lannister","M","Westerman","House Lannister","0.170568561872909","House Lannister",7,7,7,1475,"0.000188323917137476",13
+"Teora Kyndall","Teora Kyndall","F","NA","House Kyndall",0,"NA",2,2,2,0,"0.00017061934823409",16
+"Tybolt Lannister","Tybolt Lannister","M","Westerman","House Lannister","0.0769230769230769","House Lannister",4,4,4,374,"0.000176242509693338",15
+"Tygett Lannister","Tygett Lannister","M","NA","House Lannister","0.110367892976588","House Lannister",5,5,5,1110,"0.000189933523266857",13
+"Tyrek Lannister","Tyrek Lannister","M","NA","House Lannister","0.133779264214046","House Lannister",4,4,4,374,"0.000183519911910442",14
+"Tyrion Lannister","Tyrion Lannister","M","NA","House Lannister",1,"House Lannister",6,6,6,"11299.0848973703","0.000201288244766506",11
+"Tysha","Tysha","M","NA","House Tysha","0.130434782608695","NA",2,2,2,0,"0.000193986420950533",12
+"Tytos Lannister","Tytos Lannister","M","NA","House Lannister","0.210702341137123","House Lannister",7,7,7,"3927.67131757132","0.000196656833824975",12
+"Tywin Lannister","Tywin Lannister","M","NA","House Lannister",1,"House Lannister",7,7,7,"10133.1517504945","0.00020116676725005",11
+"Willem Lannister","Willem Lannister","M","NA","House Lannister","0.167224080267558","House Lannister",2,2,2,0,"0.000183992640294388",14
+"Aegon Targaryen son of Rhaegar","Aegon Targaryen son of Rhaegar","M","Valyrian","House Targaryen",0,"House Targaryen",2,2,2,0,"0.000186706497386109",15
+"Doran Martell","Doran Martell","M","Dornish","House Martell","0.498327759197324","House Martell",3,3,3,374,"0.000175839634253561",17
+"Dorea Sand","Dorea Sand","F","Dornishmen","House Martell","0.103678929765886","House Martell",1,1,1,0,"0.000170706725844998",18
+"Elia Martell","Elia Martell","F","NA","House Martell","0.441471571906354","House Martell",5,5,5,4873,"0.00018723085564501",15
+"Elia Sand","Elia Sand","F","Dornishmen","House Martell","0.11705685618729","House Martell",2,2,2,0,"0.000170735871606625",18
+"Ellaria Sand","Ellaria Sand","F","Dornish","House Uller","0.160535117056856","NA",5,5,5,3,"0.000170794192997438",18
+"Loreza Sand","Loreza Sand","F","Dorne","House Martell","0.107023411371237","House Martell",2,2,2,0,"0.000170735871606625",18
+"Mellario of Norvos","Mellario of Norvos","F","NA","House Norvos",0,"NA",2,2,2,0,"0.000170241743275451",18
+"Mors Martell brother of Doran","Mors Martell brother of Doran","M","NA","House Martell","0.0668896321070234","House Martell",1,1,1,0,"0.000175777816839515",17
+"Nymeria Sand","Nymeria Sand","F","Dornishmen","House Martell","0.377926421404682","House Martell",1,1,1,0,"0.000170706725844998",18
+"Obara Sand","Obara Sand","F","Dornish","House Martell","0.140468227424749","House Martell",1,1,1,0,"0.000170706725844998",18
+"Obella Sand","Obella Sand","F","Dornishmen","House Martell","0.103678929765886","House Martell",2,2,2,0,"0.000170735871606625",18
+"Oberyn Martell","Oberyn Martell","M","Dornishmen","House Martell","0.77257525083612","House Martell",11,11,11,3285,"0.000176335743255158",17
+"Princess of Dorne","Princess of Dorne","F","NA","House Dorne",0,"NA",4,4,4,4614,"0.000181752090149037",16
+"Rhaegar Targaryen","Rhaegar Targaryen","M","Valyrian","House Targaryen","0.799331103678929","House Targaryen",7,7,7,"8590.08796358514","0.000192901234567901",14
+"Rhaenys Targaryen daughter of Rhaegar","Rhaenys Targaryen daughter of Rhaegar","F","NA","House Targaryen","0.244147157190635","House Targaryen",2,2,2,0,"0.000186706497386109",15
+"Sarella Sand","Sarella Sand","F","Dornishmen","House Martell","0.103678929765886","House Martell",1,1,1,0,"0.000170706725844998",18
+"Tyene Sand","Tyene Sand","F","Dornish","House Martell","0.137123745819397","House Martell",1,1,1,0,"0.000170706725844998",18
+"Alys Karstark","Alys Karstark","F","Northmen","House Karstark","0.157190635451505","NA",4,4,4,356,"0.000173701580684384",18
+"Arra Norrey","Arra Norrey","F","NA","House Norrey",0,"NA",2,2,2,0,"0.000163585800752495",20
+"Artos Stark","Artos Stark","M","Northmen","House Stark","0.103678929765886","House Stark",4,4,4,374,"0.00017343045438779",18
+"Arya Flint","Arya Flint","F","NA","House Flint",0,"NA",3,3,3,3675,"0.000189286390308537",15
+"Arya Stark","Arya Stark","F","Northmen","House Stark",1,"House Stark",2,2,2,0,"0.000193948797517455",14
+"Benjen Stark","Benjen Stark","M","Northmen","House Stark","0.40133779264214","House Stark",2,2,2,0,"0.00018828845791753",15
+"Beron Stark","Beron Stark","M","Northmen","House Stark","0.234113712374581","House Stark",7,7,7,"4249.3","0.000179147259046937",17
+"Bran Stark","Bran Stark","M","Northmen","House Stark",1,"House Stark",2,2,2,0,"0.000193948797517455",14
+"Brandon Stark","Brandon Stark","M","Northmen","House Stark","0.347826086956521","House Stark",3,3,3,374,"0.000188359389715577",15
+"Brandon Stark Burner","Brandon Stark Burner","M","Northmen","House Stark","0.0334448160535117","House Stark",1,1,1,0,"0.000181950509461426",16
+"Brandon Stark son of Cregan","Brandon Stark son of Cregan","M","Northmen","House Stark","0.1438127090301","House Stark",6,6,6,2890,"0.000173913043478261",18
+"Catelyn Stark","Catelyn Stark","F","Rivermen","House Tully",0,"House Tully",9,9,9,"5520.04786324787","0.000198649185538339",13
+"Cregan Stark","Cregan Stark","M","Northmen","House Stark","0.484949832775919","House Stark",8,8,8,1480,"0.000168747890651367",19
+"Eddard Stark","Eddard Stark","M","Northmen","House Stark",1,"House Stark",10,10,10,"13875.9320058174","0.000200280392549569",13
+"Edwyle Stark","Edwyle Stark","M","Northmen","House Stark","0.107023411371237","House Stark",5,5,5,"2709.4","0.000189501610763692",15
+"Gilliane Glover","Gilliane Glover","F","NA","House Glover",0,"NA",1,1,1,0,"0.000163585800752495",20
+"Jeyne Westerling","Jeyne Westerling","F","Westermen","House Westerling","0.424749163879598","NA",2,2,2,0,"0.000187300992695261",15
+"Jon Snow","Jon Snow","M","Northmen","House Stark",1,"House Stark",3,3,3,"7123.57564583753","0.000195963158926122",14
+"Jonnel Stark","Jonnel Stark","M","NA","House Stark","0.127090301003344","House Stark",4,4,4,374,"0.00016366612111293",20
+"Lorra Royce","Lorra Royce","F","NA","House Royce",0,"NA",5,5,5,"355.3","0.000178794922224209",17
+"Lyanna Glover","Lyanna Glover","F","NA","House Glover",0,"NA",2,2,2,0,"0.000178094390026714",17
+"Lyanna Stark","Lyanna Stark","F","Northmen","House Stark","0.354515050167224","House Stark",3,3,3,1000,"0.00019105846388995",15
+"Lyarra Stark","Lyarra Stark","F","NA","House Stark",0,"House Stark",8,8,8,"4883.53725490196","0.000194931773879142",14
+"Lynara Stark","Lynara Stark","F","NA","House Stark",0,"House Stark",4,4,4,364,"0.000168662506324844",19
+"Lysara Karstark","Lysara Karstark","F","NA","House Karstark",0,"NA",2,2,2,0,"0.000167982529816899",19
+"Marna Locke","Marna Locke","F","NA","House Locke",0,"NA",3,3,3,0,"0.000188821752265861",15
+"Melantha Blackwood","Melantha Blackwood","F","NA","House Blackwood",0,"NA",3,3,3,0,"0.000183621006243114",16
+"Myriame Manderly","Myriame Manderly","F","NA","House Manderly",0,"NA",2,2,2,0,"0.000163371998039536",20
+"Ramsay Bolton","Ramsay Bolton","M","NA","House Bolton",0,"NA",3,3,3,"1516.56847596848","0.000195350654424692",13
+"Rickard Stark","Rickard Stark","M","Northmen","House Stark","0.270903010033444","House Stark",8,8,8,"3869.53725490197","0.000195007800312012",14
+"Rickon Stark","Rickon Stark","M","Northmen","House Stark","0.551839464882943","House Stark",2,2,2,0,"0.000193948797517455",14
+"Rickon Stark son of Benjen","Rickon Stark son of Benjen","M","NA","House Stark",0,"House Stark",1,1,1,0,"0.000163585800752495",20
+"Robb Stark","Robb Stark","M","NA","House Stark",1,"House Stark",6,6,6,746,"0.000194099378881988",14
+"Robyn Ryswell","Robyn Ryswell","F","NA","House Ryswell",0,"NA",2,2,2,0,"0.000158805780530411",21
+"Rodrik Stark","Rodrik Stark","M","Northmen","House Stark","0.040133779264214","House Stark",1,1,1,0,"0.00018807598269701",15
+"Rodrik Stark son of Beron","Rodrik Stark son of Beron","M","Northmen","House Stark","0.100334448160535","House Stark",4,4,4,"3375.6","0.000184060371801951",16
+"Rodwell Stark","Rodwell Stark","M","Northmen","House Stark","0.130434782608695","House Stark",4,4,4,374,"0.000168520390967307",19
+"Talisa Stark","Talisa Stark","F","NA","House Stark",0,"House Stark",2,2,2,0,"0.000187300992695261",15
+"Willam Stark","Willam Stark","M","Northmen","House Stark","0.11705685618729","House Stark",7,7,7,"2140.6","0.000184229918938836",16
+"Aegon V Targaryen","Aegon V Targaryen","M","NA","House Targaryen","0.695652173913043","House Targaryen",6,6,6,"2582.67662956538","0.000188182160331201",13
+"Aerys II Targaryen","Aerys II Targaryen","M","NA","House Targaryen",1,"House Targaryen",7,7,7,"2648.016603601","0.000189789333839438",13
+"Betha Blackwood","Betha Blackwood","F","NA","House Blackwood",0,"NA",3,3,3,"1205.67180639764","0.00018796992481203",13
+"Daenerys Targaryen","Daenerys Targaryen","F","Valyrian","House Targaryen",1,"House Targaryen",8,8,8,1116,"0.000183519911910442",14
+"Drogo","Drogo","F","Dothraki","Dothraki","0.558528428093645","NA",2,2,2,0,"0.000177430801987225",15
+"Duncan Targaryen","Duncan Targaryen","M","NA","House Targaryen","0.140468227424749","House Targaryen",4,4,4,"376.5","0.000181917409496089",14
+"Dyanna Dayne","Dyanna Dayne","F","NA","House Dayne",0,"NA",1,1,1,0,"0.000181785129976368",14
+"Hizdahr zo Loraq","Hizdahr zo Loraq","M","Ghiscari","House Loraq","0.444816053511705","NA",2,2,2,0,"0.000177430801987225",15
+"Jaehaerys II Targaryen","Jaehaerys II Targaryen","M","NA","House Targaryen","0.494983277591973","House Targaryen",4,4,4,"2341.07716812883","0.00018796992481203",12
+"Jenny of Oldstones","Jenny of Oldstones","F","NA","House Oldstones",0,"NA",2,2,2,0,"0.000175932441942294",15
+"Maekar I Targaryen","Maekar I Targaryen","M","NA","House Targaryen",0,"House Targaryen",1,1,1,0,"0.000181785129976368",14
+"Maron Martell","Maron Martell","M","Dornish","House Martell","0.0367892976588628","House Martell",2,2,2,0,"0.000177430801987225",15
+"Rhaella Targaryen","Rhaella Targaryen","F","Valyrian","House Targaryen","0.321070234113712","House Targaryen",6,6,6,"1869.21617603766","0.000189753320683112",13
+"Shaera Targaryen","Shaera Targaryen","F","NA","House Targaryen","0.494983277591973","House Targaryen",2,2,2,"618.095299358214","0.000187863986473793",12
+"Viserys Targaryen","Viserys Targaryen","M","Valyrian","House Targaryen","0.622073578595317","House Targaryen",2,2,2,0,"0.000183318056828598",14
+"Hoster Tully","Hoster Tully","M","Rivermen","House Tully","0.331103678929765","House Tully",5,5,5,"2472.74444444445","0.000194212468440474",14
+"Minisa Whent","Minisa Whent","F","Rivermen","House Whent","0.0434782608695652","NA",5,5,5,"2472.74444444445","0.000194212468440474",14
+"Petyr Baelish","Petyr Baelish","M","Valemen","House Baelish",1,"NA",2,2,2,0,"0.000181620050853614",16
+"Alerie Hightower","Alerie Hightower","F","NA","House Hightower","0.227424749163879","NA",6,6,6,665,"0.000185082361650935",15
+"Elinor Tyrell","Elinor Tyrell","F","NA","House Tyrell","0.163879598662207","House Tyrell",2,2,2,0,"0.00015600624024961",21
+"Elyn Norridge","Elyn Norridge","F","NA","House Norridge","0.127090301003344","NA",5,5,5,14,"0.000160668380462725",20
+"Garlan Tyrell","Garlan Tyrell","M","NA","House Tyrell","0.327759197324414","House Tyrell",4,4,4,374,"0.000179565451607111",16
+"Hobber Redwyne","Hobber Redwyne","M","Reach","House Redwyne","0.214046822742474","NA",2,2,2,0,"0.000169348010160881",18
+"Horas Redwyne","Horas Redwyne","M","Reach","House Redwyne","0.217391304347826","NA",2,2,2,0,"0.000169348010160881",18
+"Leo Blackbar","Leo Blackbar","M","NA","House Blackbar","0.127090301003344","NA",2,2,2,0,"0.000155884645362432",21
+"Leonette Fossoway","Leonette Fossoway","F","NA","House Fossoway","0.17391304347826","NA",2,2,2,0,"0.000173731758165393",17
+"Lia Serry","Lia Serry","F","NA","House Serry","0.137123745819397","NA",4,4,4,1,"0.000156030581994071",21
+"Loras Tyrell","Loras Tyrell","M","The Reach","House Tyrell","0.665551839464882","House Tyrell",2,2,2,0,"0.00017950098725543",16
+"Luthor Tyrell","Luthor Tyrell","M","Reach","House Tyrell","0.170568561872909","House Tyrell",6,6,6,4909,"0.000180538003249684",16
+"Luthor Tyrell son of Moryn","Luthor Tyrell son of Moryn","M","NA","House Tyrell","0.130434782608695","House Tyrell",6,6,6,2894,"0.000165453342157512",19
+"Luthor Tyrell son of Theodore","Luthor Tyrell son of Theodore","M","NA","House Tyrell","0.137123745819397","House Tyrell",2,2,2,0,"0.00015600624024961",21
+"Mace Tyrell","Mace Tyrell","M","NA","House Tyrell","0.856187290969899","House Tyrell",8,8,8,6785,"0.000185701021355617",15
+"Medwick Tyrell","Medwick Tyrell","M","NA","House Tyrell","0.120401337792642","House Tyrell",2,2,2,0,"0.000160513643659711",20
+"Mina Tyrell","Mina Tyrell","F","NA","House Tyrell","0.163879598662207","House Tyrell",6,6,6,1111,"0.000174855744011191",17
+"Moryn Tyrell","Moryn Tyrell","M","NA","House Tyrell","0.140468227424749","House Tyrell",3,3,3,3223,"0.000170270730461434",18
+"Olene Tyrell","Olene Tyrell","F","NA","House Moryn","0.127090301003344","NA",4,4,4,374,"0.000160565189466924",20
+"Olenna Redwyne","Olenna Redwyne","F","NA","House Redwyne","0.2876254180602","NA",4,4,4,684,"0.000180147721131328",16
+"Paxter Redwyne","Paxter Redwyne","M","NA","House Redwyne","0.511705685618729","NA",4,4,4,1,"0.000169376693766938",18
+"Theodore Tyrell","Theodore Tyrell","M","NA","House Tyrell","0.137123745819397","House Tyrell",6,6,6,1111,"0.000160668380462725",20
+"Unknown father Tyrell","Unknown father Tyrell","M","NA","House Tyrell",0,"House Tyrell",2,2,2,1770,"0.000175254118471784",17
+"Unknown mother Tyrell","Unknown mother Tyrell","F","NA","House Tyrell",0,"House Tyrell",2,2,2,1770,"0.000175254118471784",17
+"Willas Tyrell","Willas Tyrell","M","NA","House Tyrell","0.290969899665551","House Tyrell",2,2,2,0,"0.00017950098725543",16
